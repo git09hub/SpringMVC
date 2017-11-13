@@ -1,1 +1,10 @@
+com\mvc\classes\PersistentClass.class
+com\mvc\genericDao\GenericDAO.class
+com\mvc\genericDao\GenericDAOImpl.class
+com\models\User.class
+com\mvc\dao\MVCDAO.class
+com\mvc\service\ServiceClass.class
+com\models\Bean.class
 com\mvc\HomeController.class
+com\mvc\service\ServiceImpl.class
+com\mvc\dao\MVCDAOImpl.class
